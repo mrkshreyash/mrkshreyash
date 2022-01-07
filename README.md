@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreyash-a-k
+- 👋 Hi, I’m @mrkshreyash
 - 👀 I’m interested in Cyber Security, Artificial Intelligence & Data Science.
 - 🌱 I’m currently learning B.Tech in Artificial Intelligence & Data Science.
 - 💞️ I’m looking to collaborate on Automation Projects, Cyber Security Projects, Data Science Projects, etc.
