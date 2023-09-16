@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go, Full Stack using Java.**
 
-- 💬 Ask me about **ML, Deep Learning, Data Science.**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science.**
 
 - 📫 How to reach me **contactshreyashk@gmail.com**
 
