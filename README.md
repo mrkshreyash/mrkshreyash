@@ -1,7 +1,7 @@
 ![logo](https://github.com/mrkshreyash/mrkshreyash/blob/main/GitHub%20Banner%201280x640.png)
 
 <h1 align="center">Hi 👋, I'm Shreyash Avinash Kamble</h1>
-<h3 align="center">A passionate AI & Data Science Engineer from India</h3>
+<h3 align="center">A passionate AI & Data Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkshreyash&label=Profile%20views&color=0e75b6&style=flat" alt="mrkshreyash" /> </p>
 
